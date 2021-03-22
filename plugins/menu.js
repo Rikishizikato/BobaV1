@@ -88,7 +88,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╭════•›「 Sosmed 」
 ╿ Github :
 ╿ https://github.com/Rikishizikato/BobaV1
-╿ Youtube : GrowCastl
+╿ Youtube : GrowCastle
 ╿ Instagram : @rebuz._
 ╰═══════════════
 
